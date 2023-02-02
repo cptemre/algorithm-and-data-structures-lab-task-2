@@ -10,7 +10,7 @@
 
 3. Project only contains the code in github not the project folder prepared by Visual Studio.
 
-## DESCRIPTION OF THE TASK
+### DESCRIPTION OF THE TASK
 
 Factorial (n!) Is the product of n consecutive natural numbers, whereby additionally 0! = 1.
 Calculating the factorial is a prime example of using recursion:
